@@ -1,8 +1,8 @@
-import React from 'react';
+
 import { useParams, useNavigate } from 'react-router-dom';
 import { useQueries } from '@tanstack/react-query';
 import type * as fhir4 from 'fhir/r4';
-import { ArrowLeft, User, Calendar, Activity } from 'lucide-react';
+import { ArrowLeft, User, Calendar } from 'lucide-react';
 import { format, parseISO } from 'date-fns';
 
 import { 

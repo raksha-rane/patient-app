@@ -1,4 +1,4 @@
-import React from 'react';
+
 import type * as fhir4 from 'fhir/r4';
 import { Pill } from 'lucide-react';
 

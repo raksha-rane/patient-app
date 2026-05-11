@@ -1,4 +1,4 @@
-import React from 'react';
+
 import type * as fhir4 from 'fhir/r4';
 import { format, parseISO } from 'date-fns';
 import { Stethoscope } from 'lucide-react';

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Stethoscope } from 'lucide-react';
 import { Outlet, Link } from 'react-router-dom';
 
